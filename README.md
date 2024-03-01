@@ -1,6 +1,6 @@
 hi, i'm [Firas Alhashash](https://FirasAlhashash.me/), an AI Engineer, studey AI Engineering in OVGU Magdeburg, Germany in the first group of this program in all Germany. my passion lies in artificial intelligence (AI) and how to incorporate this technology into all devices and industries currently in use.
 
-
+#- I study in german language 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
