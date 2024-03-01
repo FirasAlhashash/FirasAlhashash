@@ -1,4 +1,4 @@
-hi, i'm [Firas Alhashash](https://FirasAlhashash.me/), an IA Engineer, studey AI Engineering in OVGU Magdeburg, Germany in the first group of this program in all Germany. my passion lies in artificial intelligence (AI) and how to incorporate this technology into all devices and industries currently in use.
+hi, i'm [Firas Alhashash](https://FirasAlhashash.me/), an AI Engineer, studey AI Engineering in OVGU Magdeburg, Germany in the first group of this program in all Germany. my passion lies in artificial intelligence (AI) and how to incorporate this technology into all devices and industries currently in use.
 
 
 
