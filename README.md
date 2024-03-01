@@ -14,7 +14,7 @@ hi, i'm [Firas Alhashash](https://FirasAlhashash.me/), an AI Engineer, studey AI
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-     📊 **this week i spent my time on:**
+📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
